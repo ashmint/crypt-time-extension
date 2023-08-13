@@ -1,6 +1,6 @@
 # Crypt-time chrome extension 
 
-A personal dashboard set to open up on new tab in chrome. Shows current crypto price, time
+A personal dashboard set to open up on new tab in chrome. Shows current crypto price, weather and time
 
 ## Installation
 Clone this repository.
